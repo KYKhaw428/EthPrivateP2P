@@ -3,7 +3,7 @@ P2P Ethereum Private Network Setup Configurations and Steps. Setup steps for pri
 
 ## Prerequisites
 1) At least two computer which does not share the same internet.
-2) Have geth install for all the involved computers to function as nodes.
+2) Have geth installed for all the involved computers to function as nodes.
 
 ## Setup steps
 
@@ -18,7 +18,7 @@ genesis.json file can be prepared with the following code:
 
 <img src="guideImages/genesisCode.png"> 
 
-Each component of the genesis.json file can be modified based on environment requirements.
+Each component of the genesis.json file can be modified based on preferences/requirements.
 
 Once the genesis file has been configured, duplicate it across all the nodes in the new directory created in step 1.
 
@@ -80,7 +80,7 @@ ensure that --rpccorsdomain "[any related node/customer/organization/entity/indi
 Enable portforwarding at bootstrap node @ 8085(or any rpcport accordingly).
 
 #### 4) Use metamask to connect
-Have metamask extension installed in your browser and change the network to custom RPC, and do the as below.
+Have metamask extension installed in your browser and change the network to custom RPC, and do the following as below.
 
 <img src="guideImages/metaMaskConnect.png">
 
