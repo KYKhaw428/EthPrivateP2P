@@ -1,0 +1,43 @@
+=============== May 9, 2020 (+08) ===============
+01:47:05.948619 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+01:47:05.950994 db@open opening
+01:47:05.952802 version@stat F·[] S·0B[] Sc·[]
+01:47:05.953799 db@janitor F·2 G·0
+01:47:05.953831 db@open done T·2.812674ms
+01:47:05.954476 db@close closing
+01:47:05.954526 db@close done T·48.438µs
+=============== May 9, 2020 (+08) ===============
+01:52:06.560521 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+01:52:06.560626 version@stat F·[] S·0B[] Sc·[]
+01:52:06.560638 db@open opening
+01:52:06.560672 journal@recovery F·1
+01:52:06.562801 journal@recovery recovering @1
+01:52:06.563978 memdb@flush created L0@2 N·10 S·566B "HfP..\xb5\xc1X,v3":"r\x00\x00..\xb5\xc1X,v5"
+01:52:06.566530 version@stat F·[1] S·566B[566B] Sc·[0.25]
+01:52:06.569800 db@janitor F·3 G·0
+01:52:06.569826 db@open done T·9.173873ms
+03:06:07.355063 db@close closing
+03:06:07.355235 db@close done T·167.511µs
+=============== May 9, 2020 (+08) ===============
+03:06:09.990478 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+03:06:09.990589 version@stat F·[1] S·566B[566B] Sc·[0.25]
+03:06:09.990604 db@open opening
+03:06:09.990670 journal@recovery F·1
+03:06:09.992555 journal@recovery recovering @3
+03:06:09.994207 memdb@flush created L0@5 N·1 S·192B "Dat..ion,v12":"Dat..ion,v12"
+03:06:09.996183 version@stat F·[2] S·758B[758B] Sc·[0.50]
+03:06:09.999528 db@janitor F·4 G·0
+03:06:09.999544 db@open done T·8.933073ms
+03:20:39.523079 db@close closing
+03:20:39.523260 db@close done T·174.005µs
+=============== May 9, 2020 (+08) ===============
+03:20:51.129536 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+03:20:51.129652 version@stat F·[2] S·758B[758B] Sc·[0.50]
+03:20:51.129670 db@open opening
+03:20:51.129714 journal@recovery F·1
+03:20:51.131650 journal@recovery recovering @6
+03:20:51.133866 version@stat F·[2] S·758B[758B] Sc·[0.50]
+03:20:51.137027 db@janitor F·4 G·0
+03:20:51.137043 db@open done T·7.366879ms
+03:25:31.559401 db@close closing
+03:25:31.559575 db@close done T·169.806µs

@@ -1,0 +1,8 @@
+=============== May 9, 2020 (+08) ===============
+01:47:49.546301 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+01:47:49.629253 db@open opening
+01:47:49.631442 version@stat F·[] S·0B[] Sc·[]
+01:47:49.674376 db@janitor F·2 G·0
+01:47:49.674473 db@open done T·45.107314ms
+01:47:49.675646 db@close closing
+01:47:49.675881 db@close done T·228.429µs
